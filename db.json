@@ -1,0 +1,64 @@
+[
+  {
+    "id": "0",
+    "name": "Wallet 1",
+    "address": "1111 3700 3880 3334",
+    "assets": [
+      {
+        "ticker": "EUR",
+        "amount": 50,
+        "xrate": 30000,
+        "icon": "images/eur.png"
+      },
+      {
+        "ticker": "YEN",
+        "amount": 1000,
+        "xrate": 240,
+        "icon": "images/yen.png"
+      },
+      {
+        "ticker": "VND",
+        "amount": 10000000,
+        "xrate": 1,
+        "icon": "images/vnd.png"
+      }
+    ],
+    "balance": [
+      {
+        "localCurrency": "23,046,000 VND",
+        "selectedCurrency": "1,000 USD"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Wallet 2",
+    "address": "2222 3700 3880 3334",
+    "assets": [
+      {
+        "balance": 50,
+        "ticker": "GBP",
+        "xrate": 28000,
+        "icon": "images/gbp.png"
+      },
+      {
+        "balance": 1000,
+        "ticker": "USD",
+        "xrate": 23500,
+        "icon": "images/usd.png"
+      },
+      {
+        "balance": 0.3,
+        "ticker": "BTC",
+        "xrate": 705000000,
+        "icon": "images/btc.png"
+      }
+    ],
+    "balance": [
+      {
+        "localCurrency": "230,460,000 VND",
+        "selectedCurrency": "10,000 USD"
+      }
+    ]
+  }
+]
